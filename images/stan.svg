@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" role="img" aria-labelledby="title desc">
+  <title id="title">Stan v kempu</title>
+  <desc id="desc">Zelený stan na louce, vedle něj batoh a v pozadí les.</desc>
+  <rect width="720" height="300" fill="#d5e7ec"/>
+  <circle cx="590" cy="60" r="26" fill="#eed28a"/>
+  <path d="M0 210L80 160L160 195L250 155L360 195L470 150L600 190L720 145V300H0Z" fill="#8fa78a"/>
+  <path d="M0 235Q180 200 360 235Q550 200 720 225V300H0Z" fill="#7b995f"/>
+  <g fill="#42634b">
+    <path d="M65 95L30 185H100ZM120 120L90 200H150ZM655 105L615 205H695Z"/>
+  </g>
+  <path d="M65 175V222M120 185V224M655 190V229" stroke="#68563d" stroke-width="8"/>
+  <path d="M205 245L310 105L500 235L385 250Z" fill="#608778" stroke="#36584e" stroke-width="3"/>
+  <path d="M310 105L385 250L205 245Z" fill="#7fa08a" stroke="#36584e" stroke-width="3"/>
+  <path d="M304 152L345 246L253 246Z" fill="#30473f"/>
+  <path d="M310 105L175 250M500 235L532 250" stroke="#ddd1b1" stroke-width="2"/>
+  <path d="M172 248V260M532 248V260" stroke="#5f5548" stroke-width="4"/>
+  <rect x="435" y="212" width="44" height="51" rx="9" fill="#b18b54" stroke="#765f3d" stroke-width="3"/>
+  <path d="M447 213V204H467V213M445 241H470" fill="none" stroke="#765f3d" stroke-width="3"/>
+</svg>
