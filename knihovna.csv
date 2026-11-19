@@ -1,5 +1,5 @@
-id,nazev,autor,rok_vydani,dostupna
-1,Alchymista,Paulo Coelho,1988,ano
-2,Malý princ,Antoine de Saint-Exupéry,1943,ano
-3,"Já, robot",Isaac Asimov,1950,ano
-4,Harry Potter a Kámen mudrců,J. K. Rowlingová,1997,ne
+id,nazev,autor,rok_vydani,dostupna,pocet_stran
+1,Alchymista,Paulo Coelho,1988,ano,160
+2,Malý princ,Antoine de Saint-Exupéry,1943,ano,96
+3,"Já, robot",Isaac Asimov,1950,ano,224
+4,Harry Potter a Kámen mudrců,J. K. Rowlingová,1997,ne,336
